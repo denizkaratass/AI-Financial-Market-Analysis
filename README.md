@@ -21,4 +21,4 @@ The analysis is structured to provide deep financial insights into tech giants:
 - **Language:** Python
 - **Environment:** Jupyter Notebook
 - **Main Libraries:** `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`.
-
+## rarie
