@@ -21,4 +21,11 @@ The analysis is structured to provide deep financial insights into tech giants:
 - **Language:** Python
 - **Environment:** Jupyter Notebook
 - **Main Libraries:** `Pandas`, `NumPy`, `Seaborn`, `Matplotlib`.
-## rarie
+  
+## 🚀 How to Run
+- **Download the Project:** Click the green "Code" button above and select "Download ZIP".
+- **Unzip:** Extract the files to a folder on your computer.
+- **Verify Data:** Ensure the dataset file (CSV) is in the same folder as the .ipynb file.
+- **Launch:** Open Flight-Price-Analysis-EDA.ipynb using Jupyter Notebook or VS Code and run the cells.
+
+  **This project was developed to showcase data science and analytical storytelling skills.**
